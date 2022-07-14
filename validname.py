@@ -37,6 +37,8 @@ class Solution:
             else:
                 x[f] = 0
 
+        return True
+
 def main():
     string1 = input()
 
